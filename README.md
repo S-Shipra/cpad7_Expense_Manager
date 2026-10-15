@@ -146,20 +146,6 @@ Then copy `App.js` and the `src` folder into the project and run `npx expo start
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your screenshots to a "screenshots" folder in the repo, then update the paths below -->
-
-| Home | After adding transactions | Validation alert |
-|---|---|---|
-| ![Home](screenshots/home.png) | ![Transactions](screenshots/transactions.png) | ![Alert](screenshots/alert.png) |
-
-| Dark mode | Monthly report | Filters |
-|---|---|---|
-| ![Dark](screenshots/dark.png) | ![Report](screenshots/report.png) | ![Filters](screenshots/filters.png) |
-
----
-
 ## 🔮 Future Scope
 
 - Recurring transactions (rent, subscriptions, salary)
@@ -174,6 +160,5 @@ Then copy `App.js` and the `src` folder into the project and run `npx expo start
 
 ## 👤 Author
 
-**Your Name**
-Roll No: XXXX | Class: XXXX
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Shipra Singh**
+Roll No: 231071069 | Class: LY BTECH COMPS 
